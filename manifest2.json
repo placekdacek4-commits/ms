@@ -1,0 +1,27 @@
+{
+  "name": "mObywatel",
+  "short_name": "mObywatel",
+  "description": "mObywatel",
+  "start_url": "/ms/logowanie.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+        {
+      "src": "https://bed-deb.github.io/bdb/assets/images/logo.start.jpg",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+
+    {
+      "src": "https://bed-deb.github.io/bdb/assets/images/logo.start.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://bed-deb.github.io/bdb/assets/images/logo.start.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
